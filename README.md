@@ -15,11 +15,11 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./images/interactive-rating-component.png)
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: (https://warm-pasca-cd9c08.netlify.app)
 
 ## My process
 
